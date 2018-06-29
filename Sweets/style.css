@@ -1,0 +1,23 @@
+h1 {
+    color: #FFB6DA;
+    font: Impact, Charcoal, sans-serif;
+}
+
+body {
+    font-family: 'Aclonica';font-size: 22px;
+    background-image:url("https://media1.giphy.com/media/3o6ozplkCL8aNEvVG8/giphy.gif")
+}
+
+.button {
+    font-family: 'Aclonica';
+    background-color: #FFB6DA;
+    border: none;
+    color: #000BA6;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50%;
+    margin: 10px;
+}
